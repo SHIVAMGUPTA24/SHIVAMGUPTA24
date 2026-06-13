@@ -13,7 +13,9 @@
 
 ### 🔗 Connect with me:
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/shivam24/)
+<a href="https://linkedin.com/in/shivam24/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="25" height="25"/>
+</a>
 
 ---
 
